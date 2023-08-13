@@ -1,5 +1,5 @@
 import { TestBed } from '@angular/core/testing';
-import { AuthService } from './auth.service';  // Adjust the path accordingly
+import { AuthService } from './auth.service';  
 import { Auth } from '@angular/fire/auth';
 
 
