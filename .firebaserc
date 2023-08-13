@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "yooz-task": {
+      "hosting": {
+        "Yooz-Task": [
+          "yooz-task"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "yooz-task"
+  }
+}

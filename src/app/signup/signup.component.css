@@ -1,0 +1,18 @@
+.signup-card {
+    max-width: 400px;
+    margin: 50px auto;
+  }
+  
+  .full-width-input {
+    width: 100%;
+    margin-bottom: 20px;
+  }
+  
+  .button-container {
+    text-align: center;
+  }
+
+  .title {
+    margin: 0 auto; /* This centers the card horizontally */ 
+ }
+  

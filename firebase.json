@@ -1,0 +1,9 @@
+{
+  "hosting": [
+    {
+      "target": "Yooz-Task",
+      "source": ".",
+      "frameworksBackend": {}
+    }
+  ]
+}
